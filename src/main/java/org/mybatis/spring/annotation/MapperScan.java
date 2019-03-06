@@ -142,3 +142,5 @@ public @interface MapperScan {
   Class<? extends MapperFactoryBean> factoryBean() default MapperFactoryBean.class;
 
 }
+
+/*做个小测试
